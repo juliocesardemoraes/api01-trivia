@@ -1,0 +1,30 @@
+.mini__container {
+  width: 75%;
+  border-radius: 1rem;
+}
+
+.mini__container__full {
+  width: 100%;
+  border-radius: 1rem;
+}
+
+.w-75 {
+  width: 75%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.next {
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.mini__container__full:hover {
+  cursor: pointer;
+}
+
+.next:hover {
+  cursor: pointer;
+}
